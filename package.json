@@ -1,0 +1,16 @@
+{
+  "name": "scrapper-bot",
+  "version": "1.0.0",
+  "description": "scrapps accuweather.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alireza-Hallajian",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "type": "module"
+}

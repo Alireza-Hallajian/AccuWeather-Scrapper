@@ -1,0 +1,1429 @@
+{
+  "url": "https://www.accuweather.com/en/gb/london/ec4a-2/september-weather/328328?year=2022",
+  "result": {
+    "days": {
+      "1": null,
+      "2": null,
+      "3": {
+        "Day": {
+          "description": "Warm with more clouds than sun; a shower in spots this morning followed by a thunderstorm in parts of the area this afternoon",
+          "iconPath": "https://www.accuweather.com//images/weathericons/16.svg",
+          "Max UV Index": "2 Low",
+          "Wind": "SSW 15 km/h",
+          "Wind Gusts": "35 km/h",
+          "Probability of Precipitation": "55%",
+          "Probability of Thunderstorms": "33%",
+          "Precipitation": "2.5 mm",
+          "Rain": "2.5 mm",
+          "Hours of Precipitation": "1",
+          "Hours of Rain": "1",
+          "Cloud Cover": "86%"
+        },
+        "Night": {
+          "description": "Considerable cloudiness and mild",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Wind": "SSE 9 km/h",
+          "Wind Gusts": "33 km/h",
+          "Probability of Precipitation": "14%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "100%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 27 mins",
+            "risingTime": "6:16 AM",
+            "fallingTime": "7:43 PM"
+          },
+          "Moon": {
+            "duration": "7 hrs 40 mins",
+            "risingTime": "2:52 PM",
+            "fallingTime": "10:32 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "16°",
+            "high": "24°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "20°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "21°"
+          }
+        }
+      },
+      "4": {
+        "Day": {
+          "description": "Cloudy and breezy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "S 24 km/h",
+          "Wind Gusts": "48 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "2%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "99%"
+        },
+        "Night": {
+          "description": "Cloudy and mild",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Wind": "ESE 11 km/h",
+          "Wind Gusts": "35 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "4%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "100%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 24 mins",
+            "risingTime": "6:17 AM",
+            "fallingTime": "7:41 PM"
+          },
+          "Moon": {
+            "duration": "7 hrs 02 mins",
+            "risingTime": "4:13 PM",
+            "fallingTime": "11:15 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "17°",
+            "high": "23°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "20°"
+          },
+          "lastYear": {
+            "low": "12°",
+            "high": "17°"
+          }
+        }
+      },
+      "5": {
+        "Day": {
+          "description": "Warm with variable cloudiness; a shower in the morning, turning breezy in the afternoon with a thunderstorm in parts of the area",
+          "iconPath": "https://www.accuweather.com//images/weathericons/13.svg",
+          "Max UV Index": "2 Low",
+          "Wind": "S 20 km/h",
+          "Wind Gusts": "41 km/h",
+          "Probability of Precipitation": "69%",
+          "Probability of Thunderstorms": "41%",
+          "Precipitation": "5.1 mm",
+          "Rain": "5.1 mm",
+          "Hours of Precipitation": "2",
+          "Hours of Rain": "2",
+          "Cloud Cover": "90%"
+        },
+        "Night": {
+          "description": "Partly cloudy and mild",
+          "iconPath": "https://www.accuweather.com//images/weathericons/35.svg",
+          "Wind": "S 11 km/h",
+          "Wind Gusts": "22 km/h",
+          "Probability of Precipitation": "10%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "33%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 20 mins",
+            "risingTime": "6:19 AM",
+            "fallingTime": "7:39 PM"
+          },
+          "Moon": {
+            "duration": "6 hrs 53 mins",
+            "risingTime": "5:23 PM",
+            "fallingTime": "12:16 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "17°",
+            "high": "24°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "20°"
+          },
+          "lastYear": {
+            "low": "13°",
+            "high": "25°"
+          }
+        }
+      },
+      "6": {
+        "Day": {
+          "description": "Variable cloudiness with a thundershower; breezy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/6.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "SSW 24 km/h",
+          "Wind Gusts": "46 km/h",
+          "Probability of Precipitation": "80%",
+          "Probability of Thunderstorms": "25%",
+          "Precipitation": "2.5 mm",
+          "Rain": "2.5 mm",
+          "Hours of Precipitation": "1",
+          "Hours of Rain": "1",
+          "Cloud Cover": "83%"
+        },
+        "Night": {
+          "description": "Partly cloudy and mild",
+          "iconPath": "https://www.accuweather.com//images/weathericons/36.svg",
+          "Wind": "SSE 9 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "20%",
+          "Probability of Thunderstorms": "2%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "66%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 17 mins",
+            "risingTime": "6:20 AM",
+            "fallingTime": "7:37 PM"
+          },
+          "Moon": {
+            "duration": "7 hrs 20 mins",
+            "risingTime": "6:15 PM",
+            "fallingTime": "1:35 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "16°",
+            "high": "23°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "20°"
+          },
+          "lastYear": {
+            "low": "11°",
+            "high": "26°"
+          }
+        }
+      },
+      "7": {
+        "Day": {
+          "description": "Cloudy with a couple of showers and a thunderstorm",
+          "iconPath": "https://www.accuweather.com//images/weathericons/15.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "SE 17 km/h",
+          "Wind Gusts": "39 km/h",
+          "Probability of Precipitation": "88%",
+          "Probability of Thunderstorms": "53%",
+          "Precipitation": "5.1 mm",
+          "Rain": "5.1 mm",
+          "Hours of Precipitation": "2.5",
+          "Hours of Rain": "2.5",
+          "Cloud Cover": "99%"
+        },
+        "Night": {
+          "description": "Cloudy and mild with a couple of showers",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Wind": "SSW 9 km/h",
+          "Wind Gusts": "22 km/h",
+          "Probability of Precipitation": "85%",
+          "Probability of Thunderstorms": "17%",
+          "Precipitation": "4.2 mm",
+          "Rain": "4.2 mm",
+          "Hours of Precipitation": "3",
+          "Hours of Rain": "3",
+          "Cloud Cover": "97%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 12 mins",
+            "risingTime": "6:22 AM",
+            "fallingTime": "7:34 PM"
+          },
+          "Moon": {
+            "duration": "8 hrs 10 mins",
+            "risingTime": "6:53 PM",
+            "fallingTime": "3:03 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "15°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "18°",
+            "high": "27°"
+          }
+        }
+      },
+      "8": {
+        "Day": {
+          "description": "Mostly cloudy with a touch of rain",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "SSW 15 km/h",
+          "Wind Gusts": "41 km/h",
+          "Probability of Precipitation": "63%",
+          "Probability of Thunderstorms": "7%",
+          "Precipitation": "4.4 mm",
+          "Rain": "4.4 mm",
+          "Hours of Precipitation": "3",
+          "Hours of Rain": "3",
+          "Cloud Cover": "77%"
+        },
+        "Night": {
+          "description": "A passing evening shower or two; otherwise, overcast",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Wind": "SE 9 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "63%",
+          "Probability of Thunderstorms": "13%",
+          "Precipitation": "1.5 mm",
+          "Rain": "1.5 mm",
+          "Hours of Precipitation": "1",
+          "Hours of Rain": "1",
+          "Cloud Cover": "90%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 08 mins",
+            "risingTime": "6:24 AM",
+            "fallingTime": "7:32 PM"
+          },
+          "Moon": {
+            "duration": "9 hrs 13 mins",
+            "risingTime": "7:20 PM",
+            "fallingTime": "4:33 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "14°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "17°",
+            "high": "27°"
+          }
+        }
+      },
+      "9": {
+        "Day": {
+          "description": "Mostly cloudy; a morning shower in spots followed by a little rain in the afternoon",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "SW 11 km/h",
+          "Wind Gusts": "32 km/h",
+          "Probability of Precipitation": "57%",
+          "Probability of Thunderstorms": "11%",
+          "Precipitation": "0.9 mm",
+          "Rain": "0.9 mm",
+          "Hours of Precipitation": "1.5",
+          "Hours of Rain": "1.5",
+          "Cloud Cover": "79%"
+        },
+        "Night": {
+          "description": "Partly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/35.svg",
+          "Wind": "NW 9 km/h",
+          "Wind Gusts": "22 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "2%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "41%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 05 mins",
+            "risingTime": "6:25 AM",
+            "fallingTime": "7:30 PM"
+          },
+          "Moon": {
+            "duration": "10 hrs 22 mins",
+            "risingTime": "7:40 PM",
+            "fallingTime": "6:02 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "15°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "15°",
+            "high": "21°"
+          }
+        }
+      },
+      "10": {
+        "Day": {
+          "description": "A bit of morning rain; otherwise, mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "NNW 13 km/h",
+          "Wind Gusts": "33 km/h",
+          "Probability of Precipitation": "57%",
+          "Probability of Thunderstorms": "5%",
+          "Precipitation": "0.9 mm",
+          "Rain": "0.9 mm",
+          "Hours of Precipitation": "1",
+          "Hours of Rain": "1",
+          "Cloud Cover": "76%"
+        },
+        "Night": {
+          "description": "Partly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/35.svg",
+          "Wind": "NNW 9 km/h",
+          "Wind Gusts": "19 km/h",
+          "Probability of Precipitation": "12%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "48%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "13 hrs 00 mins",
+            "risingTime": "6:27 AM",
+            "fallingTime": "7:27 PM"
+          },
+          "Moon": {
+            "duration": "11 hrs 31 mins",
+            "risingTime": "7:56 PM",
+            "fallingTime": "7:27 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "14°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "16°",
+            "high": "20°"
+          }
+        }
+      },
+      "11": {
+        "Day": {
+          "description": "Cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "2 Low",
+          "Wind": "N 13 km/h",
+          "Wind Gusts": "17 km/h",
+          "Probability of Precipitation": "2%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "96%"
+        },
+        "Night": {
+          "description": "Considerable clouds",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Wind": "ENE 9 km/h",
+          "Wind Gusts": "19 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "94%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 57 mins",
+            "risingTime": "6:28 AM",
+            "fallingTime": "7:25 PM"
+          },
+          "Moon": {
+            "duration": "12 hrs 39 mins",
+            "risingTime": "8:09 PM",
+            "fallingTime": "8:48 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "15°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "12°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "12°",
+            "high": "21°"
+          }
+        }
+      },
+      "12": {
+        "Day": {
+          "description": "Considerable cloudiness",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "N 11 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "4%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "93%"
+        },
+        "Night": {
+          "description": "Clear to partly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/34.svg",
+          "Wind": "NNE 9 km/h",
+          "Wind Gusts": "19 km/h",
+          "Probability of Precipitation": "2%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "22%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 53 mins",
+            "risingTime": "6:30 AM",
+            "fallingTime": "7:23 PM"
+          },
+          "Moon": {
+            "duration": "13 hrs 45 mins",
+            "risingTime": "8:23 PM",
+            "fallingTime": "10:08 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "15°",
+            "high": "22°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "11°",
+            "high": "20°"
+          }
+        }
+      },
+      "13": {
+        "Day": {
+          "description": "Clouds giving way to some sun; a little rain in the morning followed by a shower in spots in the afternoon",
+          "iconPath": "https://www.accuweather.com//images/weathericons/13.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "ENE 15 km/h",
+          "Wind Gusts": "39 km/h",
+          "Probability of Precipitation": "58%",
+          "Probability of Thunderstorms": "12%",
+          "Precipitation": "1.1 mm",
+          "Rain": "1.1 mm",
+          "Hours of Precipitation": "1.5",
+          "Hours of Rain": "1.5",
+          "Cloud Cover": "43%"
+        },
+        "Night": {
+          "description": "Thickening clouds with a shower in places late",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "NE 11 km/h",
+          "Wind Gusts": "28 km/h",
+          "Probability of Precipitation": "40%",
+          "Probability of Thunderstorms": "8%",
+          "Precipitation": "0.2 mm",
+          "Rain": "0.2 mm",
+          "Hours of Precipitation": "0.5",
+          "Hours of Rain": "0.5",
+          "Cloud Cover": "43%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 50 mins",
+            "risingTime": "6:31 AM",
+            "fallingTime": "7:21 PM"
+          },
+          "Moon": {
+            "duration": "14 hrs 50 mins",
+            "risingTime": "8:37 PM",
+            "fallingTime": "11:27 AM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "14°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "19°"
+          },
+          "lastYear": {
+            "low": "12°",
+            "high": "20°"
+          }
+        }
+      },
+      "14": {
+        "Day": {
+          "description": "A shower in the area in the morning; otherwise, clouds to start, then sunshine returns",
+          "iconPath": "https://www.accuweather.com//images/weathericons/4.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "ENE 15 km/h",
+          "Wind Gusts": "35 km/h",
+          "Probability of Precipitation": "40%",
+          "Probability of Thunderstorms": "8%",
+          "Precipitation": "0.2 mm",
+          "Rain": "0.2 mm",
+          "Hours of Precipitation": "0.5",
+          "Hours of Rain": "0.5",
+          "Cloud Cover": "55%"
+        },
+        "Night": {
+          "description": "Clear",
+          "iconPath": "https://www.accuweather.com//images/weathericons/33.svg",
+          "Wind": "NE 11 km/h",
+          "Wind Gusts": "22 km/h",
+          "Probability of Precipitation": "1%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "5%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 45 mins",
+            "risingTime": "6:33 AM",
+            "fallingTime": "7:18 PM"
+          },
+          "Moon": {
+            "duration": "15 hrs 49 mins",
+            "risingTime": "8:54 PM",
+            "fallingTime": "12:43 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "15°",
+            "high": "21°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "14°",
+            "high": "18°"
+          }
+        }
+      },
+      "15": {
+        "Day": {
+          "description": "Mostly sunny",
+          "iconPath": "https://www.accuweather.com//images/weathericons/2.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "ENE 15 km/h",
+          "Wind Gusts": "39 km/h",
+          "Probability of Precipitation": "1%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "17%"
+        },
+        "Night": {
+          "description": "Clear",
+          "iconPath": "https://www.accuweather.com//images/weathericons/33.svg",
+          "Wind": "NE 11 km/h",
+          "Wind Gusts": "24 km/h",
+          "Probability of Precipitation": "1%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "1%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 41 mins",
+            "risingTime": "6:35 AM",
+            "fallingTime": "7:16 PM"
+          },
+          "Moon": {
+            "duration": "-9 hrs 29 mins",
+            "risingTime": "9:14 PM",
+            "fallingTime": "12:43 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "14°",
+            "high": "22°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "11°",
+            "high": "18°"
+          }
+        }
+      },
+      "16": {
+        "Day": {
+          "description": "Cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "NNW 7 km/h",
+          "Wind Gusts": "19 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "99%"
+        },
+        "Night": {
+          "description": "Mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "W 7 km/h",
+          "Wind Gusts": "13 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "77%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 38 mins",
+            "risingTime": "6:36 AM",
+            "fallingTime": "7:14 PM"
+          },
+          "Moon": {
+            "duration": "17 hrs 26 mins",
+            "risingTime": "9:40 PM",
+            "fallingTime": "3:06 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "21°"
+          }
+        }
+      },
+      "17": {
+        "Day": {
+          "description": "Mostly sunny",
+          "iconPath": "https://www.accuweather.com//images/weathericons/2.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "NNW 11 km/h",
+          "Wind Gusts": "22 km/h",
+          "Probability of Precipitation": "20%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "24%"
+        },
+        "Night": {
+          "description": "Mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "N 7 km/h",
+          "Wind Gusts": "19 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "77%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 33 mins",
+            "risingTime": "6:38 AM",
+            "fallingTime": "7:11 PM"
+          },
+          "Moon": {
+            "duration": "17 hrs 52 mins",
+            "risingTime": "10:14 PM",
+            "fallingTime": "4:06 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "8°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "13°",
+            "high": "20°"
+          }
+        }
+      },
+      "18": {
+        "Day": {
+          "description": "Sunshine and patchy clouds",
+          "iconPath": "https://www.accuweather.com//images/weathericons/2.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "ENE 6 km/h",
+          "Wind Gusts": "7 km/h",
+          "Probability of Precipitation": "20%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "28%"
+        },
+        "Night": {
+          "description": "Partly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/35.svg",
+          "Wind": "SSE 6 km/h",
+          "Wind Gusts": "13 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "42%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 30 mins",
+            "risingTime": "6:39 AM",
+            "fallingTime": "7:09 PM"
+          },
+          "Moon": {
+            "duration": "-7 hrs 07 mins",
+            "risingTime": "10:59 PM",
+            "fallingTime": "4:06 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "8°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "14°",
+            "high": "22°"
+          }
+        }
+      },
+      "19": {
+        "Day": {
+          "description": "Sunshine",
+          "iconPath": "https://www.accuweather.com//images/weathericons/1.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "SE 11 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "5%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "7%"
+        },
+        "Night": {
+          "description": "Clear",
+          "iconPath": "https://www.accuweather.com//images/weathericons/33.svg",
+          "Wind": "SSE 9 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "5%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "3%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 26 mins",
+            "risingTime": "6:41 AM",
+            "fallingTime": "7:07 PM"
+          },
+          "Moon": {
+            "duration": "17 hrs 36 mins",
+            "risingTime": "11:56 PM",
+            "fallingTime": "5:32 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "11°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "13°",
+            "high": "17°"
+          }
+        }
+      },
+      "20": {
+        "Day": {
+          "description": "Brilliant sunshine",
+          "iconPath": "https://www.accuweather.com//images/weathericons/1.svg",
+          "Max UV Index": "4 Moderate",
+          "Wind": "SSE 6 km/h",
+          "Wind Gusts": "13 km/h",
+          "Probability of Precipitation": "5%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "4%"
+        },
+        "Night": {
+          "description": "Mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "SW 7 km/h",
+          "Wind Gusts": "13 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "79%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 21 mins",
+            "risingTime": "6:43 AM",
+            "fallingTime": "7:04 PM"
+          },
+          "Moon": {
+            "duration": "N/A ",
+            "risingTime": "N/A",
+            "fallingTime": "5:32 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "8°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "18°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "17°"
+          }
+        }
+      },
+      "21": {
+        "Day": {
+          "description": "Cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "WSW 9 km/h",
+          "Wind Gusts": "20 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "98%"
+        },
+        "Night": {
+          "description": "Mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "WSW 11 km/h",
+          "Wind Gusts": "20 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "76%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 18 mins",
+            "risingTime": "6:44 AM",
+            "fallingTime": "7:02 PM"
+          },
+          "Moon": {
+            "duration": "16 hrs 58 mins",
+            "risingTime": "1:02 AM",
+            "fallingTime": "6:00 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "9°",
+            "high": "20°"
+          }
+        }
+      },
+      "22": {
+        "Day": {
+          "description": "Considerable cloudiness",
+          "iconPath": "https://www.accuweather.com//images/weathericons/6.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "W 15 km/h",
+          "Wind Gusts": "28 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "1%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "80%"
+        },
+        "Night": {
+          "description": "Mainly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "W 11 km/h",
+          "Wind Gusts": "24 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "68%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 14 mins",
+            "risingTime": "6:46 AM",
+            "fallingTime": "7:00 PM"
+          },
+          "Moon": {
+            "duration": "16 hrs 08 mins",
+            "risingTime": "2:13 AM",
+            "fallingTime": "6:21 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "20°"
+          }
+        }
+      },
+      "23": {
+        "Day": {
+          "description": "Sunshine and some clouds",
+          "iconPath": "https://www.accuweather.com//images/weathericons/3.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "WSW 24 km/h",
+          "Wind Gusts": "59 km/h",
+          "Probability of Precipitation": "20%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "40%"
+        },
+        "Night": {
+          "description": "Thickening clouds",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "WSW 26 km/h",
+          "Wind Gusts": "57 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "55%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 10 mins",
+            "risingTime": "6:47 AM",
+            "fallingTime": "6:57 PM"
+          },
+          "Moon": {
+            "duration": "15 hrs 10 mins",
+            "risingTime": "3:28 AM",
+            "fallingTime": "6:38 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "9°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "11°",
+            "high": "19°"
+          }
+        }
+      },
+      "24": {
+        "Day": {
+          "description": "Cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "SW 20 km/h",
+          "Wind Gusts": "44 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "2%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "96%"
+        },
+        "Night": {
+          "description": "Partly cloudy with a couple of showers late",
+          "iconPath": "https://www.accuweather.com//images/weathericons/39.svg",
+          "Wind": "SW 19 km/h",
+          "Wind Gusts": "43 km/h",
+          "Probability of Precipitation": "65%",
+          "Probability of Thunderstorms": "13%",
+          "Precipitation": "2.2 mm",
+          "Rain": "2.2 mm",
+          "Hours of Precipitation": "1",
+          "Hours of Rain": "1",
+          "Cloud Cover": "68%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 06 mins",
+            "risingTime": "6:49 AM",
+            "fallingTime": "6:55 PM"
+          },
+          "Moon": {
+            "duration": "14 hrs 10 mins",
+            "risingTime": "4:42 AM",
+            "fallingTime": "6:52 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "20°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "12°",
+            "high": "21°"
+          }
+        }
+      },
+      "25": {
+        "Day": {
+          "description": "Variable cloudiness with showers and thunderstorms, mainly early in the day",
+          "iconPath": "https://www.accuweather.com//images/weathericons/16.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "W 17 km/h",
+          "Wind Gusts": "35 km/h",
+          "Probability of Precipitation": "70%",
+          "Probability of Thunderstorms": "41%",
+          "Precipitation": "5.1 mm",
+          "Rain": "5.1 mm",
+          "Hours of Precipitation": "2.5",
+          "Hours of Rain": "2.5",
+          "Cloud Cover": "77%"
+        },
+        "Night": {
+          "description": "Partly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/36.svg",
+          "Wind": "SW 13 km/h",
+          "Wind Gusts": "33 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "4%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "59%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "12 hrs 02 mins",
+            "risingTime": "6:51 AM",
+            "fallingTime": "6:53 PM"
+          },
+          "Moon": {
+            "duration": "13 hrs 08 mins",
+            "risingTime": "5:57 AM",
+            "fallingTime": "7:05 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "9°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "13°",
+            "high": "19°"
+          }
+        }
+      },
+      "26": {
+        "Day": {
+          "description": "Mostly sunny",
+          "iconPath": "https://www.accuweather.com//images/weathericons/2.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "SW 11 km/h",
+          "Wind Gusts": "28 km/h",
+          "Probability of Precipitation": "10%",
+          "Probability of Thunderstorms": "1%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "16%"
+        },
+        "Night": {
+          "description": "Mainly clear with a passing shower late",
+          "iconPath": "https://www.accuweather.com//images/weathericons/34.svg",
+          "Wind": "WSW 13 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "60%",
+          "Probability of Thunderstorms": "17%",
+          "Precipitation": "1.1 mm",
+          "Rain": "1.1 mm",
+          "Hours of Precipitation": "0.5",
+          "Hours of Rain": "0.5",
+          "Cloud Cover": "21%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "11 hrs 59 mins",
+            "risingTime": "6:52 AM",
+            "fallingTime": "6:51 PM"
+          },
+          "Moon": {
+            "duration": "12 hrs 04 mins",
+            "risingTime": "7:13 AM",
+            "fallingTime": "7:17 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "7°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "12°",
+            "high": "20°"
+          }
+        }
+      },
+      "27": {
+        "Day": {
+          "description": "Mostly cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/6.svg",
+          "Max UV Index": "2 Low",
+          "Wind": "WNW 19 km/h",
+          "Wind Gusts": "44 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "5%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "66%"
+        },
+        "Night": {
+          "description": "Mainly clear",
+          "iconPath": "https://www.accuweather.com//images/weathericons/34.svg",
+          "Wind": "NW 19 km/h",
+          "Wind Gusts": "44 km/h",
+          "Probability of Precipitation": "20%",
+          "Probability of Thunderstorms": "2%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "18%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "11 hrs 54 mins",
+            "risingTime": "6:54 AM",
+            "fallingTime": "6:48 PM"
+          },
+          "Moon": {
+            "duration": "11 hrs 00 mins",
+            "risingTime": "8:31 AM",
+            "fallingTime": "7:31 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "8°",
+            "high": "18°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "17°"
+          }
+        }
+      },
+      "28": {
+        "Day": {
+          "description": "Sunny",
+          "iconPath": "https://www.accuweather.com//images/weathericons/1.svg",
+          "Max UV Index": "3 Moderate",
+          "Wind": "NW 13 km/h",
+          "Wind Gusts": "26 km/h",
+          "Probability of Precipitation": "10%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "7%"
+        },
+        "Night": {
+          "description": "Increasing cloudiness",
+          "iconPath": "https://www.accuweather.com//images/weathericons/38.svg",
+          "Wind": "WSW 11 km/h",
+          "Wind Gusts": "24 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "70%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "11 hrs 50 mins",
+            "risingTime": "6:56 AM",
+            "fallingTime": "6:46 PM"
+          },
+          "Moon": {
+            "duration": "9 hrs 54 mins",
+            "risingTime": "9:52 AM",
+            "fallingTime": "7:46 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "7°",
+            "high": "18°"
+          },
+          "average": {
+            "low": "10°",
+            "high": "17°"
+          },
+          "lastYear": {
+            "low": "10°",
+            "high": "16°"
+          }
+        }
+      },
+      "29": {
+        "Day": {
+          "description": "Cloudy; a morning shower in spots followed by a little rain in the afternoon",
+          "iconPath": "https://www.accuweather.com//images/weathericons/12.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "SW 19 km/h",
+          "Wind Gusts": "37 km/h",
+          "Probability of Precipitation": "58%",
+          "Probability of Thunderstorms": "12%",
+          "Precipitation": "1.2 mm",
+          "Rain": "1.2 mm",
+          "Hours of Precipitation": "1.5",
+          "Hours of Rain": "1.5",
+          "Cloud Cover": "98%"
+        },
+        "Night": {
+          "description": "Overcast",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Wind": "WSW 17 km/h",
+          "Wind Gusts": "35 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "95%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "11 hrs 47 mins",
+            "risingTime": "6:57 AM",
+            "fallingTime": "6:44 PM"
+          },
+          "Moon": {
+            "duration": "8 hrs 50 mins",
+            "risingTime": "11:16 AM",
+            "fallingTime": "8:06 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "9°",
+            "high": "16°"
+          },
+          "lastYear": {
+            "low": "7°",
+            "high": "15°"
+          }
+        }
+      },
+      "30": {
+        "Day": {
+          "description": "Cloudy",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Max UV Index": "1 Low",
+          "Wind": "SW 13 km/h",
+          "Wind Gusts": "20 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "100%"
+        },
+        "Night": {
+          "description": "Plenty of clouds",
+          "iconPath": "https://www.accuweather.com//images/weathericons/7.svg",
+          "Wind": "SSW 13 km/h",
+          "Wind Gusts": "20 km/h",
+          "Probability of Precipitation": "25%",
+          "Probability of Thunderstorms": "0%",
+          "Precipitation": "0.0 mm",
+          "Cloud Cover": "98%"
+        },
+        "SunriseOrSunset": {
+          "Sun": {
+            "duration": "11 hrs 42 mins",
+            "risingTime": "6:59 AM",
+            "fallingTime": "6:41 PM"
+          },
+          "Moon": {
+            "duration": "7 hrs 52 mins",
+            "risingTime": "12:41 PM",
+            "fallingTime": "8:33 PM"
+          }
+        },
+        "temperatureHistory": {
+          "forecast": {
+            "low": "10°",
+            "high": "19°"
+          },
+          "average": {
+            "low": "9°",
+            "high": "16°"
+          },
+          "lastYear": {
+            "low": "7°",
+            "high": "15°"
+          }
+        }
+      }
+    }
+  }
+}
